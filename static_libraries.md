@@ -8,3 +8,7 @@ the `ar` command as follows:
 ```
 ar -r <archive file name> object_file1 object_file2 ...
 ```
+
+## Analyzing static libraries on Linux
+
+To analyze static libraries on Linux, we use the tool called `readelf`.
